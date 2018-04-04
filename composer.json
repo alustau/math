@@ -1,4 +1,12 @@
 {
+    "name": "alustau/math",
+    
+    "description": "Helpful tools for Math",
+    
+    "keywords": ["math", "php", "composer", "phpunit", "interview", "jobs"],
+    
+    "license": "MIT",
+    
     "require": {
         "php": ">=7.0"
     },
